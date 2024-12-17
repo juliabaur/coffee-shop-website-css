@@ -1,4 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto")
+nav ul {
+  display: flex;
+
+  gap: 2rem;
+  list-style: none;
+  text-decoration: none;
+
+}
+
+
+
+
+
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto")
 
 /* 1. Use a more-intuitive box-sizing model */
 *, *::before, *::after {
